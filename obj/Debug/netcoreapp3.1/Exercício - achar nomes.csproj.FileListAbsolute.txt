@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.exe
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.deps.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\bin\Debug\netcoreapp3.1\Exercício - achar nomes.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - achar nomes\obj\Debug\netcoreapp3.1\Exercício - achar nomes.genruntimeconfig.cache
